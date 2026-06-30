@@ -1292,8 +1292,8 @@ This project reflects the practical application of Power BI, DAX, Power Query, a
 
 ### Connect with Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 📧 Email: *(Add your email address)*
+- 💼 LinkedIn: https://www.linkedin.com/in/aayush-patil-56857836b/
+- 📧 Email: aayushpatil834@gmail.com
 
 If you found this project helpful or insightful, consider giving the repository a ⭐. Your support is greatly appreciated!
 
